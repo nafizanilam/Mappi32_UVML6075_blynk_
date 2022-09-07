@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPLOpF3HKye"
-#define BLYNK_DEVICE_NAME "Chart UV"
-#define BLYNK_AUTH_TOKEN "ZHX4hs9H2pl527tjn__RGauRxmZLvuJZ"
+#define BLYNK_TEMPLATE_ID "XXXXXXXXXXX"
+#define BLYNK_DEVICE_NAME "XXXXXXXXXXXXXXX"
+#define BLYNK_AUTH_TOKEN "XXXXXXXXXXXXXXXXXXXX"
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
@@ -12,8 +12,8 @@ VEML6075 uv;
 
 char auth[] = BLYNK_AUTH_TOKEN;
 
-char ssid[] = "KMTek";
-char pass[] = "KMTek123";
+char ssid[] = "XXXXXXX";
+char pass[] = "XXXXXXX";
 
 BlynkTimer timer;
 
